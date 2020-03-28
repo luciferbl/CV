@@ -1,0 +1,86 @@
+
+
+.caja0{
+    position: absolute;
+        left:40%; 
+        background:#147875;
+        width:509px;
+        padding:5px;
+}
+
+.infor {width:509px;
+        background:#D5EDDA;
+        padding:5px 5px;
+        position: absolute;
+        top:90px ;
+        left:40%; 
+        
+
+}
+ 
+.estudios {width:777px;
+           background:#D5EDDA;
+           line-height:30px;
+           position: absolute;
+            top:280px;
+            left:258px;
+}
+
+h2{background:#147875;
+    width:777px;
+    height:40px;
+    
+    
+    
+    }
+.puntos{width:777px;
+        background:#D5EDDA;
+        line-height:30px;
+        position: absolute;
+        top:625px ;
+        left:258px; 
+        
+
+
+}
+
+.cursos{width:777px;
+    background:#D5EDDA;
+    line-height:30px;
+    position: absolute;
+        top:878px ;
+        left:258px; 
+ }
+
+h3{background:#147875;
+    width:777px;
+    height:40px;
+}
+body{font-family: Arial, Helvetica, sans-serif;
+    background: #EFEFEF;
+}
+footer {background:#26494B;
+        width:777px;
+        height:40px ;
+        line-height:30px;
+        color: #000;
+        font-weight: bold;
+        position: absolute;
+        top:1070px ;
+        left:258px; 
+        }
+
+.div{width:100px;
+    height: 100px;
+    background: #0B4846;
+    color:#000;
+    font-size:30px;
+}
+img{position: relative;
+        left:250px; 
+
+}
+
+
+
+
